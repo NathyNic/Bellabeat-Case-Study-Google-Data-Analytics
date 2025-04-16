@@ -1,3 +1,3 @@
-# Google Analytics Apstone Project : Bellabeat Case Study
+# Google Analytics Capstone Project: Bellabeat Case Study
 
 Hello
