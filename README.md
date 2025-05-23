@@ -2,6 +2,8 @@
 
 **Author:** Nathaly Pichilingue
 
+This repository includes a Colab notebook, that you can found [here](https://colab.research.google.com/drive/1pfJdlV68Li0UDRyh-0MqjGFlp0-EVAX_?usp=sharing)
+
 This repository covers the resolution of the Bellabeat Case Study on the Google Data Analytics Capstone Project.
 
 We follow the six data analytics steps.
